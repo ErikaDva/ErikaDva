@@ -13,7 +13,7 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 <br>
 📚 Learning web-development technologies
 <br>
-⭐ I enjoy 🏋️‍♀️gym and 🎮gaming in my free time
+🏋️‍♀️ I enjoy gym and 🎮 gaming in my free time
 
 ### 🤝🔗 Connect with me:
 <p align="left">

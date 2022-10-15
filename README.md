@@ -6,9 +6,13 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 
 ### About Me
 💻 Currently working as a Bioinformatician at Pentabase A/S
+<br>
 👨‍💻 Experienced in Bioinformatics, 🧬DNA Sequencing and R
+<br>
 🎓 Hold a MSc degree in Engineering (Biotechnology)
+<br>
 📚 Learning web-development technologies
+<br>
 ⭐ I enjoy 🏋️‍♀️gym and 🎮gaming in my free time
 
 ### 🤝🔗 Connect with me:

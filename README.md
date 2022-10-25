@@ -17,7 +17,7 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 
 ### 🤝🔗 Connect with me:
 <p align="left">
-<a href="https://mobile.twitter.com/erikadva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/erikadva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/erika-dvarionaite/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
 ### Languages
@@ -27,6 +27,12 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 
 ### Technologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Libaries
+
+<img src="badges/shiny.png" style = "width: 10%;"/>
+<img src="badges/tidyverse.png" style = "width: 10%;"/>
+<img src="badges/rmarkdown.png" style = "width: 10%;"/>
 
 ### GitHub Statistics
 

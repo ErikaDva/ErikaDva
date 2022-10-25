@@ -29,10 +29,11 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Libaries
-
+<p>
 <img src="badges/shiny.png" style = "width: 10%;"/>
 <img src="badges/tidyverse.png" style = "width: 10%;"/>
 <img src="badges/rmarkdown.png" style = "width: 10%;"/>
+</p>
 
 ### GitHub Statistics
 

@@ -5,13 +5,13 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 </p>
 
 ### About Me
-💻 Currently working as a Bioinformatician at Pentabase A/S
+💻 Currently working as a Shiny Developer and Bioinformatician at Pentabase A/S
 <br>
-👨‍💻 Experienced in Bioinformatics, 🧬DNA Sequencing and R
+👨‍💻 Experienced in Bioinformatics, 🧬DNA Sequencing and R/Shiny
 <br>
 🎓 Hold a MSc degree in Engineering (Biotechnology)
 <br>
-📚 Learning web-development technologies
+📚 Learning web-development technologies (currently: JavaScript)
 <br>
 🏋️‍♀️ I enjoy gym and 🎮 gaming in my free time
 
@@ -32,16 +32,25 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 <img src="badges/rmarkdown.png" style = "width: 10%; height: auto;"/>
 </p>
 
-### 🤝🔗 Connect with me:
-<p align="left">
+## Projects/portfolio
+- Personal website: *TBA*
+- Shiny applications: *TBA*
 
+### 🔗 Connect with me:
+<p align="left">
+<a href="https://erikadva.github.io" target="blank"><img align="center" src="socials/www.png" alt="www icon" title="Visit my personal website" height="35" width="35" /></a>
 <a href="https://twitter.com/erikadva" target="blank"><img align="center" src="socials/twitter.png" alt="Twitter icon" title="Follow me on Twitter" height="35" width="35" /></a>
 <a href="https://www.linkedin.com/in/erika-dvarionaite/" target="blank"><img align="center" src="socials/linkedin.png" alt="LinkedIn icon" title="Connect with me on LinkedIn" height="35" width="35" /></a>
 
 </p>
 
+## Support
 
-### GitHub Statistics
+Like what I do? You can always support by buying me a coffee :relaxed:☕
+
+<a href="https://www.buymeacoffee.com/erikadva" target="blank"><img align="center" src="badges/bmc-button.png" alt="Buy me a coffee button" title="Support my open-source work" height="auto" width="150" /></a>
+
+## GitHub Statistics
 
 [![Erika's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaDva&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -17,23 +17,24 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 
 
 
-### Languages
-
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) <br/>
+## 🔧 Technologies
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) <br/>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Technologies
+#### Other
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### R Libraries
+#### R Libraries
 <p>
-<img src="badges/shiny.png" style = "width: 10%; height: auto;"/>
-<img src="badges/tidyverse.png" style = "width: 10%; height: auto;"/>
-<img src="badges/rmarkdown.png" style = "width: 10%; height: auto;"/>
+<img src="badges/shiny.png" style = "width: 8%; height: auto;"/>
+<img src="badges/tidyverse.png" style = "width: 8%; height: auto;"/>
+<img src="badges/rmarkdown.png" style = "width: 8%; height: auto;"/>
 </p>
 
-## Projects/portfolio
+## 💼 Projects/portfolio
 - Personal website: *TBA*
 - Shiny applications: *TBA*
 
@@ -45,7 +46,7 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 
 </p>
 
-## Support
+## 💝 Support
 
 Like what I do? You can always show support by buying me a coffee :relaxed::coffee:
 

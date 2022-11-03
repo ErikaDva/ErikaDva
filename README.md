@@ -7,6 +7,7 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 </p>
 
 ### About Me
+
 💻 Currently working as a Shiny Developer and Bioinformatician at Pentabase A/S
 <br>
 👩‍💻 Experienced in Bioinformatics, 🧬DNA Sequencing and R/Shiny
@@ -17,12 +18,11 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 <br>
 🏋️‍♀️ I enjoy gym and 🎮 gaming in my free time
 
-
-
 ## 🔧 Technologies
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) <br/>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### Other
@@ -30,6 +30,7 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### R Libraries
+
 <p>
 <img src="badges/shiny.png" style = "width: 8%; height: auto;"/>
 <img src="badges/tidyverse.png" style = "width: 8%; height: auto;"/>
@@ -37,10 +38,16 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 </p>
 
 ## 💼 Portfolio
-- Personal website: *TBA*
-- Shiny applications: *TBA*
+
+- Personal website:
+  - _TBA_
+- Shiny applications:
+  - _TBA_
+- Web development projects
+  - [TeaCozy](https://github.com/ErikaDva/web-dev-projects/tree/main/TeaCozy)
 
 ## 🔗 Connect with me
+
 <p align="left">
 <a href="https://erikadva.github.io" target="_blank" rel="noopener noreferrer"><img align="center" src="socials/www.png" alt="www icon" title="Visit my personal website" height="35" width="35" /></a>
 <a href="https://twitter.com/erikadva" target="_blank" rel="noopener noreferrer"><img align="center" src="socials/twitter.png" alt="Twitter icon" title="Follow me on Twitter" height="35" width="35" /></a>

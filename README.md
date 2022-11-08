@@ -44,10 +44,10 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 - Shiny applications
   - _TBA_
 - Web development projects
-  - ['/web-dev-projects'](https://github.com/ErikaDva/web-dev-projects/tree/main/TeaCozy)
+  - [`/web-dev-projects`](https://github.com/ErikaDva/web-dev-projects/tree/main/TeaCozy)
     - [TeaCozy](https://erikadva.github.io/web-dev-projects/TeaCozy/) - a fictional tea shop website (HTML & CSS)
 - SQL projects
-  - ['/SQL-projects'](https://github.com/ErikaDva/SQL-projects)
+  - [`/SQL-projects`](https://github.com/ErikaDva/SQL-projects)
 
 ## 🔗 Connect with me
 

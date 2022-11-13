@@ -43,11 +43,11 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
   - _TBA_
 - Shiny applications
   - _TBA_
-- Web development projects
-  - [`/web-dev-projects`](https://github.com/ErikaDva/web-dev-projects/tree/main/TeaCozy)
+- Web Development
+  - [`/web-dev-projects`](https://github.com/ErikaDva/web-dev-projects/tree/main/TeaCozy) - collection of various web development projects
     - [TeaCozy](https://erikadva.github.io/web-dev-projects/TeaCozy/) - a fictional tea shop website (HTML & CSS)
-- SQL projects
-  - [`/SQL-projects`](https://github.com/ErikaDva/SQL-projects)
+- SQL
+  - [`/SQL-projects`](https://github.com/ErikaDva/SQL-projects) - collection of various SQL projects
 
 ## 🔗 Connect with me
 

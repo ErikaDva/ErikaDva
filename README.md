@@ -8,9 +8,9 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 
 ### About Me
 
-💻 Currently working as a Shiny Developer and Bioinformatician at Pentabase A/S
+💻 Currently working as a Data Engineer at Siemens Gamesa Renewable Energy
 <br>
-👩‍💻 Experienced in Bioinformatics, 🧬DNA Sequencing and R/Shiny
+👩‍💻 Experienced in Bioinformatics, 🧬DNA Sequencing and R/Shiny development
 <br>
 🎓 Hold a MSc degree in Engineering (Biotechnology)
 <br>

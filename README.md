@@ -8,7 +8,7 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 
 ### About Me
 
-💻 Currently working as a Data Engineer at the leading manufacturer of wind turbines.
+💻 Currently working as a Data Engineer at the leading Renewable Energy Company Specializing in Wind Turbines
 <br>
 👩‍💻 Experienced in Bioinformatics, 🧬DNA Sequencing and R/Shiny development
 <br>

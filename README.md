@@ -62,6 +62,6 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 
 ## 📊 GitHub Statistics
 
-[![Erika's top languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ErikaDva&theme=blue-green&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Erika's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaDva&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ErikaDva)
+![Visitor Count](https://komarev.com/ghpvc/?username=ErikaDva)

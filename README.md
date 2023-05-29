@@ -45,6 +45,7 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 - Interview preparation & coding practices
   - [`/codewars-solutions`](https://github.com/ErikaDva/codewars-solutions) - collection of solutions to Codewars katas for R, Python, Shell, SQL and Julia (_currently in progress_)
 - Web Development
+  - [EcoTag](https://ecotag.dk) - business website for a company in Denmark (HTML, CSS & JavaScript)
   - [`/web-dev-projects`](https://github.com/ErikaDva/web-dev-projects/tree/main/TeaCozy) - collection of various web development projects
     - [TeaCozy](https://erikadva.github.io/web-dev-projects/TeaCozy/) - a fictional tea shop website (HTML & CSS)
 - Other

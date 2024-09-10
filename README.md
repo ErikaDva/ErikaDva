@@ -56,7 +56,6 @@ I am a coding enthusiast with interest in data analysis, machine learning, Shiny
 
 <p align="left">
 <a href="https://erikadva.github.io" target="_blank" rel="noopener noreferrer"><img align="center" src="socials/www.png" alt="www icon" title="Visit my personal website" height="35" width="35" /></a>
-<a href="https://twitter.com/erikadva" target="_blank" rel="noopener noreferrer"><img align="center" src="socials/twitter.png" alt="Twitter icon" title="Follow me on Twitter" height="35" width="35" /></a>
 <a href="https://www.linkedin.com/in/erika-dvarionaite/" target="_blank" rel="noopener noreferrer"><img align="center" src="socials/linkedin.png" alt="LinkedIn icon" title="Connect with me on LinkedIn" height="35" width="35" /></a>
 
 </p>
